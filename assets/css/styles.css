@@ -1,0 +1,76 @@
+.taxonomy-chain-menu-btn{
+    display: inline-table !important;
+    padding: 6px 12px;
+    margin: 0;
+    border: solid 1px #ccc;
+    border-radius: 3px;
+    font-family: inherit;
+    font-size: 0.95em;
+    line-height: normal;
+    text-decoration: none !important;
+    color: #555;
+}
+
+.taxonomy-chain-menu-btn:hover{
+    color: #111;
+}
+
+div.taxonomy-chain-menu{
+    display: inline-block;
+}
+
+.taxonomy-chain-menu select {
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-family: inherit;
+    padding: 6px;
+    margin: 0;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    width: auto;
+    height: auto;
+    line-height: normal;
+    max-width: 250px;
+}
+
+img.taxonomy-chain-menu-loader{
+    display: initial !important;
+    line-height: 0 !important;
+    width: auto;
+    height: 16px;
+}
+
+.selectron23{
+    margin-right: 6px;
+    margin-bottom: 4px;
+}
+
+.taxonomy-chain-menu-reflection{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.taxonomy-chain-menu-reflection .selectron23{
+    /* flex-basis: 40%; */
+    flex-grow: 0;
+    flex-shrink: 0;    
+}
+
+.taxonomy-chain-menu-reflection > *{
+    vertical-align: middle;
+}
+
+.taxonomy-chain-menu-reflection > .selectron23{
+    vertical-align: middle;
+}
+
+.taxonomy-chain-menu-notice{
+    color: #404040;
+    border: solid 1px #0090cb !important;
+    background: #e7f3f7;
+    padding: 5px;
+    font-size: 0.80em;
+    margin-bottom: 4px;
+}
+

@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Taxonomy Chain Menu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-23 10:27+0000\n"
+"PO-Revision-Date: 2021-03-23 10:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Domain: taxonomy-chain-menu"
+
+#: index.php:46
+msgid "Documentation"
+msgstr "Документация"
+
+#: index.php:116 index.php:350
+msgid "Select post"
+msgstr "Выберите пост"
+
+#: index.php:121
+msgid "GO!"
+msgstr "ПОЕХАЛИ!"
+
+#: index.php:169
+msgid "Taxonomy Chain Menu: select right pair of post type and its taxonomy!"
+msgstr "Taxonomy Chain Menu: выберите правильную пару типа поста и таксономии!"
+
+#: index.php:250
+msgid "Select category"
+msgstr "Выберите категорию"
+
+#. Name of the plugin
+msgid "Taxonomy Chain Menu"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Chain menu of taxonomies terms realized as chain of drop-downs. Example: "
+"[taxonomy_chain_menu post_type='product' taxonomy='product_cat' parent_id=0 "
+"exclude='36,12' watch_view='posts' show_count=1 button_title='Watch It' "
+"target='_blank' label_taxonomy='Producer|Model' label_post='Select car']"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://pluginus.net/shop/wordpress-plugins/taxonomy-chain-menu/"
+msgstr ""
+
+#. Author of the plugin
+msgid "realmag777"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://pluginus.net/"
+msgstr ""
